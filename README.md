@@ -1,2 +1,2 @@
-# Portfolio_project
-## This was my first project using HTML
+# Biodata-Project-by-HTML
+This is my first git. This project is from "Apna College". 
