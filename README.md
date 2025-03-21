@@ -1,2 +1,2 @@
-# Biodata-Project-by-HTML
-This is my first git. This project is from "Apna College". 
+# Portfolio-Project-by-HTML
+This was my first project using HTML. This project was a task from "Apna College". 
